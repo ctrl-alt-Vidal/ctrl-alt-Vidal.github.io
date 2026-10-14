@@ -7,7 +7,7 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Vidal's Portfolio # This is what shows up in the tab of the browser
 
 
 
@@ -15,9 +15,7 @@ title: John Doe's Portfolio # This is what shows up in the tab of the browser
 name: John Doe
 headline: headline message
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I'm a Robotics and Mechatronics Engineering graduate with a background in supply chains and logistics. I'm interested in building practical engineering systems that combine automation, control systems, robotics, and data analysis.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
